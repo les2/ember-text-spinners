@@ -1,6 +1,6 @@
 {
   "name": "ember-text-spinners",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Text spinners from http://tawian.io/text-spinners/ packaged for ember applications",
   "directories": {
     "doc": "doc",
