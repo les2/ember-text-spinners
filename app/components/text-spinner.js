@@ -1,0 +1,1 @@
+export { default } from 'ember-text-spinners/components/text-spinner';
