@@ -1,7 +1,7 @@
 {
   "name": "ember-text-spinners",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Text spinners from http://tawian.io/text-spinners/ packaged for ember applications",
   "directories": {
     "doc": "doc",
     "test": "tests"
